@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "himanshu",
+      "email": "helder.g@appwrk.com",
+      "id": "a64c1f69-a27d-4f6e-9bd8-9ebe368bca41"
+    },
+    {
+      "name": "aman",
+      "email": "alexjander.m@appwrk.com",
+      "id": "f3dd149d-89b2-43e7-8652-0f0f8b13e8e3"
+    },
+    {
+      "name": "anjali",
+      "email": "alisa.t@appwrk.com",
+      "id": "6e8ca8e7-59dd-4310-92e3-83eb8e36b307"
+    },
+    {
+      "name": "anku",
+      "email": "aston.great@appwrk.com",
+      "id": "5f60093d-e0c3-4f48-871c-4db0042b2bd0"
+    },
+    {
+      "name": "aman",
+      "email": "arison.s@appwrk.com",
+      "id": "69ce156b-38e1-4149-a4ef-5ffff48c69f0"
+    },
+    {
+      "name": "siddharth",
+      "email": "sergiu.r@appwrk.com",
+      "id": "07ddc53c-abc2-4563-9f97-418611b86738"
+    },
+    {
+      "name": "mike",
+      "email": "mike.s@appwrk.com",
+      "id": "4ecc8cdd-81f7-4e8f-aeb3-48ec8338f1e8"
+    },
+    {
+      "name": "himanshu@gmail.com",
+      "email": "potor",
+      "id": "fcc2370f-46f4-4164-ac67-715d558530c6"
+    },
+    {
+      "name": "ajay",
+      "email": "aj@style.com",
+      "id": "271771d4-d8b6-4c34-a5d1-e02eb8e5cb07"
+    }
+  ]
+}

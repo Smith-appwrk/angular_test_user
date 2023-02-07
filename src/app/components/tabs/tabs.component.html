@@ -1,0 +1,18 @@
+<div class="container mx-auto my-10">
+  <mat-card>
+    <mat-card-content
+      ><mat-tab-group mat-stretch-tabs="false">
+        <mat-tab label="Details">
+          <app-user-details>
+            <div><strong>Name :</strong> {{ user.name }}</div>
+            <div><strong>Email :</strong> {{ user.email }}</div>
+          </app-user-details>
+        </mat-tab>
+        <mat-tab label="History">
+          <app-history>
+            <p>History</p>
+          </app-history>
+        </mat-tab> </mat-tab-group
+    ></mat-card-content>
+  </mat-card>
+</div>
